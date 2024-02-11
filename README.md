@@ -6,6 +6,7 @@
 - 😄 I love salads!
 - ⚡ Fun fact: I can say all 50 states in one breath.
 - ⚡ Fun fact: I rode a camel to the pyramids in Egypt.
+- ⚡ Fun fact: I've traveled to the 50 states, 5 continents, and 21 countries!
 
 <!---
 Kruse7/Kruse7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
